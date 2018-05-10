@@ -8,7 +8,7 @@ ROS book: “ROS Robot Programming, A Handbook is written by TurtleBot3 Develope
 - First Edition: Dec 22, 2017
 - Published by ROBOTIS Co.,Ltd.
 - Pages: 487Pages (EN), 496Page (CN)
-- Website: www.robotis.com 97
+- Website: www.robotis.com
 - E-mail: contactus2@robotis.com
 - ISBN: 979-11-962307-1-5 (EN) / 979-11-962307-2-2 (CN)
 
